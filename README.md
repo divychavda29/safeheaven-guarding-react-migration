@@ -47,16 +47,17 @@ Below is the exact stack used in the actual project (based on the package.json):
 
 ---
 
-## 🏗 High-Level Project Architecture  
-> Only structure is shown — no confidential code.
+## 🏗 High-Level Project Architecture
+Only structure is shown — no confidential code.
+```
 src/
 ├── components/ # Reusable UI components
-├── pages/ # All website pages converted from WordPress
+├── pages/ # All pages converted from WordPress
 ├── assets/ # Public images, logos, icons
 ├── layout/ # Header, Footer, Navigation layout
 ├── App.jsx # Main application wrapper + routes
 └── main.jsx # Application entry point (Vite)
-
+```
 
 ---
 
